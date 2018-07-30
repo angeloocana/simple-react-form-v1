@@ -1,0 +1,30 @@
+{
+  "name": "simple-react-form",
+  "version": "1.10.0",
+  "license": "MIT",
+  "author": "Nicolás López <nicolaslopezj@me.com>",
+  "description": "A library to make reusable form components in React and React Native",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angeloocana/simple-react-form-v1.git"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "form",
+    "react"
+  ],
+  "dependencies": {
+    "dot-object": "^1.5.1",
+    "lodash": "^4.17.2"
+  },
+  "peerDependencies": {
+    "react": ">=16.4.1",
+    "prop-types": ">=15.6.2"
+  }
+}
